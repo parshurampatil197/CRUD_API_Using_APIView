@@ -1,7 +1,8 @@
 from django.db import models
+from .common_models import CommenFields
 
 
-class Student(models.Model):
+class Student(CommenFields):
     first_name = models.CharField(max_length=255, null=True)
     last_name = models.CharField(max_length=255, null=True)
     address = models.CharField(max_length=255, null=True)

@@ -2,7 +2,7 @@ from django.shortcuts import render, get_object_or_404
 from rest_framework import status
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from .models import Student
+from .models.models import Student
 from.serializers import StudentSerializer
 
 
@@ -10,12 +10,12 @@ class StudentView(APIView):
 
     def get(self, request, id=None):
         if id:
-            result = Student.objects.get(id=id)
-            serializers = StudentSerializer(result)
+            queryset = Student.objects.get(id=id)
+            serializers = StudentSerializer(queryset)
             return Response(serializers.data)
 
-        result = Student.objects.all()
-        serializers = StudentSerializer(result, many=True)
+        queryset = Student.objects.all()
+        serializers = StudentSerializer(queryset, many=True)
         return Response(serializers.data)
 
     def post(self, request):
