@@ -1,0 +1,233 @@
+[
+    {
+    "model": "CRUD_app.Student",
+    "pk": 3,
+    "fields": {
+        "first_name": "parshu",
+        "last_name": "patil",
+        "address": "jalgaon",
+        "roll_number": 3,
+        "mobile": "345"
+    }
+  },
+    {
+    "model": "CRUD_app.Student",
+    "pk": 4,
+    "fields": {
+        "first_name": "par",
+        "last_name": "pati",
+        "address": "avati",
+        "roll_number": 4,
+        "mobile": "3455"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 5,
+    "fields": {
+        "first_name": "pari",
+        "last_name": "sarode",
+        "address": "abad",
+        "roll_number": 5,
+        "mobile": "234453"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 6,
+    "fields": {
+        "first_name": "parikshit",
+        "last_name": "patil",
+        "address": "akola",
+        "roll_number": 6,
+        "mobile": "1654345"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 7,
+    "fields": {
+        "first_name": "parikshit",
+        "last_name": "patil",
+        "address": "akola",
+        "roll_number": 7,
+        "mobile": "12234545"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 8,
+    "fields": {
+        "first_name": "ram",
+        "last_name": "ram",
+        "address": "dhule",
+        "roll_number": 8,
+        "mobile": "167545"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 9,
+    "fields": {
+        "first_name": "jyoti",
+        "last_name": "patil",
+        "address": "muktainagar",
+        "roll_number": 9,
+        "mobile": "124354"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 10,
+    "fields": {
+        "first_name": "hitesh",
+        "last_name": "patil",
+        "address": "pachora",
+        "roll_number": 10,
+        "mobile": "13425"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 11,
+    "fields": {
+        "first_name": "parikshit",
+        "last_name": "patil",
+        "address": "akola",
+        "roll_number": 11,
+        "mobile": "12898"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 12,
+    "fields": {
+        "first_name": "somesh",
+        "last_name": "m",
+        "address": "jal",
+        "roll_number": 12,
+        "mobile": "89845"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 13,
+    "fields": {
+        "first_name": "manish",
+        "last_name": "patil",
+        "address": "uvsity",
+        "roll_number": 13,
+        "mobile": "9838"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 14,
+    "fields": {
+        "first_name": "shree",
+        "last_name": "khobragade",
+        "address": "bhandara",
+        "roll_number": 14,
+        "mobile": "83832"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 15,
+    "fields": {
+        "first_name": "sunil",
+        "last_name": "Gaikwad",
+        "address": "abad",
+        "roll_number": 15,
+        "mobile": "18776"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 16,
+    "fields": {
+        "first_name": "Rahul",
+        "last_name": "patil",
+        "address": "pune",
+        "roll_number": 16,
+        "mobile": "123445324"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 17,
+    "fields": {
+        "first_name": "gotu",
+        "last_name": "patil",
+        "address": "bhosari",
+        "roll_number": 17,
+        "mobile": "1234459876"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 18,
+    "fields": {
+        "first_name": "shubham",
+        "last_name": "patil",
+        "address": "amanlner",
+        "roll_number": 18,
+        "mobile": "12344508989"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 19,
+    "fields": {
+        "first_name": "amol",
+        "last_name": "wankhede",
+        "address": "khamgaon",
+        "roll_number": 19,
+        "mobile": "1234456565"
+    }
+  },
+      {
+    "model": "CRUD_app.Student",
+    "pk": 20,
+    "fields": {
+        "first_name": "santy",
+        "last_name": "malkar",
+        "address": "kannad",
+        "roll_number": 20,
+        "mobile": "12398986565"
+    }
+  },
+        {
+    "model": "CRUD_app.Student",
+    "pk": 21,
+    "fields": {
+        "first_name": "nitin",
+        "last_name": "malkar",
+        "address": "kannad",
+        "roll_number": 21,
+        "mobile": "12322286565"
+    }
+  },
+        {
+    "model": "CRUD_app.Student",
+    "pk": 22,
+    "fields": {
+        "first_name": "priyanka",
+        "last_name": "malkar",
+        "address": "kannad",
+        "roll_number": 22,
+        "mobile": "12333386565"
+    }
+  },
+        {
+    "model": "CRUD_app.Student",
+    "pk": 23,
+    "fields": {
+        "first_name": "swapnil",
+        "last_name": "pawar",
+        "address": "shivne",
+        "roll_number": 23,
+        "mobile": "1237786565"
+    }
+  }
+]

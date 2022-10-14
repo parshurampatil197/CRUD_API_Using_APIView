@@ -1,4 +1,4 @@
-## Student_api
+## Student_api using APIView class
 
 I have created REST API in Django Using DRF. created the class-based view. We will use the APIView class, a subclass of Django's View class. 
 We can define the get(), post(), patch(), and delete() methods so that we can perform the CRUD operations.
@@ -8,7 +8,7 @@ We can define the get(), post(), patch(), and delete() methods so that we can pe
 
 Last tested successfully with Python 3.6.19 and Ubuntu 16.04.\
 Django==2.2\
-djangorestframework==3.10.2\
+djangorestframework==3.10.2
 
 [Django](https://www.djangoproject.com/): The web framework for perfectionists with deadlines (Django builds better web apps with less code).
 

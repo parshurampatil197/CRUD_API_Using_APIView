@@ -1,0 +1,7 @@
+.idea*
+*__pycache*
+*.pyc*
+#*db.sqlite3*
+*None*
+.scannerwork*
+sonar-project.properties
