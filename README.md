@@ -3,6 +3,7 @@
 I have created REST API in Django Using DRF. created the class-based view. We will use the APIView class, a subclass of Django's View class. 
 We can define the get(), post(), patch(), and delete() methods so that we can perform the CRUD operations.
 
+![image](https://user-images.githubusercontent.com/84769341/206894011-632d8995-941a-4b25-9f9f-562db1ccb830.png)
 
 ## Requirements
 
